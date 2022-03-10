@@ -5,18 +5,14 @@
 
 量子认证平台是稳定、强大、快捷的跨平台 TLS/PKI 认证系统。主要面向大、中企业客户和代理商。
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+- 价格便宜。
+- 快速高效。
+- 大陆OCSP优化。
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+## 申请证书
 
-## Learning Laravel
+普通客户可以在 [这里](https://www.quantumca.com.cn/certificates/dv-ssl-certificate-flex) 申请SSL证书。
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+## 代理
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 1500 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+在您 [注册账号](https://www.quantumca.com.cn/register) 后，可以 [免费开通代理站](https://www.quantumca.com.cn/sales-front)（开通不收费，但进货需要从余额扣费）。
