@@ -11,8 +11,8 @@
 
 ## 申请证书
 
-普通客户可以在 [这里](https://www.quantumca.com.cn/certificates/dv-ssl-certificate-flex) 申请SSL证书。
+普通客户可以在 [这里](https://www.quantumca.com.cn/dashboard/ssl-certificate/create) 申请SSL证书。
 
 ## 代理
 
-在您 [注册账号](https://www.quantumca.com.cn/register) 后，可以 [免费开通代理站](https://www.quantumca.com.cn/sales-front)（开通不收费，但进货需要从余额扣费）。
+在您 [注册账号](https://www.quantumca.com.cn/auth/register) 后，可以 [免费开通代理站](https://www.quantumca.com.cn/dashboard/sales-front)（开通不收费，但进货需要从余额扣费）。
